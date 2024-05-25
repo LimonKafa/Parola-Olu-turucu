@@ -1,2 +1,2 @@
-# Parola-Olu-turucu
+# Parola-Oluşutrucu
 Parolunuzu oluşturmak için bu uygulamayı kullanabilirsiniz!
